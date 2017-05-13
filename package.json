@@ -1,0 +1,31 @@
+{
+  "name": "three.proton",
+  "version": "1.0.0",
+  "description": "three.Proton is an easily customizable html5 particle engine for three.js",
+  "main": "build/three.proton.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "cd build && node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlra/three.proton.git"
+  },
+  "keywords": [
+    "three",
+    "proton",
+    "particles"
+  ],
+  "authors": [
+    "a-jie <a-jie.cn@msn.com>",
+    "nlra <nlra.alrn@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlra/three.proton/issues"
+  },
+  "homepage": "https://github.com/nlra/three.proton#readme"
+}
