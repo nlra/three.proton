@@ -1,6 +1,6 @@
 {
   "name": "three.proton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "three.Proton is an easily customizable html5 particle engine for three.js",
   "main": "build/three.proton.min.js",
   "directories": {
